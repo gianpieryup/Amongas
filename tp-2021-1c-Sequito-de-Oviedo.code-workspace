@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "discordiador"
+		},
+		{
+			"path": "i-mongo-store"
+		},
+		{
+			"path": "mi-ram-hq"
+		},
+		{
+			"path": "shared"
+		},
+		{
+			"path": "alterador"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"discordiador.h": "c",
+			"string.h": "c",
+			"i-mongo-store-lib.h": "c",
+			"shared_utils.h": "c",
+			"mi-ram-hq-lib.h": "c",
+			"math.h": "c",
+			"mathcalls.h": "c",
+			"nivel-gui.h": "c",
+			"fcntl.h": "c",
+			"alterador.c": "c",
+			"list.h": "c",
+			"socket.h": "c",
+			"temporal.h": "c"
+		}
+	}
+}
