@@ -70,3 +70,6 @@ SIGUSR1 va a generar la compactacion
 SIGUSR2 va a loggear toda la informacion en memoria actualmente. 
 
 Esta no fue pedida pero la desarrollamos pensando en su utilidad para saber que esta pasando en cierto momento en memoria. 
+  
+TP de compañero 2019  
+https://github.com/Renkon/lissandra2019utnso  
